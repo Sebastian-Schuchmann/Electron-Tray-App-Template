@@ -1,0 +1,1 @@
+Electron Tray App Template
