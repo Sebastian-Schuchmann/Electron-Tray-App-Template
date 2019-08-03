@@ -1,4 +1,4 @@
-#Electron Tray App Template
+# Electron Tray App Template
 The quickest way to create an electron app located in the menu bar. This also works on windows and changes its position according to the position of the taskbar.
 
 Made with **Electron 6.0.0**
